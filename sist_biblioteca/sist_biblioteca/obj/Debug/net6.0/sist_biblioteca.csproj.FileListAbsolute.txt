@@ -1,0 +1,5 @@
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0\sist_biblioteca.csproj.AssemblyReference.cache
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0\sist_biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0\sist_biblioteca.AssemblyInfoInputs.cache
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0\sist_biblioteca.AssemblyInfo.cs
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0\sist_biblioteca.csproj.CoreCompileInputs.cache

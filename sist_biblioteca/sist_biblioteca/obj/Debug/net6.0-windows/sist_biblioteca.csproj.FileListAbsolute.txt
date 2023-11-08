@@ -1,0 +1,8 @@
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.csproj.AssemblyReference.cache
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.Form1.resources
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.csproj.GenerateResource.cache
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.AssemblyInfoInputs.cache
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.AssemblyInfo.cs
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\semuc\Downloads\sist_biblioteca\sist_biblioteca\sist_biblioteca\obj\Debug\net6.0-windows\sist_biblioteca.Login.resources

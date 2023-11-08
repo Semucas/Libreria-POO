@@ -214,7 +214,7 @@ namespace sist_biblioteca
         public void RegistrarUsuario(Biblioteca biblioteca)
         {
             string nuevoNombre = "Nuevo Usuario"; // Cambia esto al nombre deseado
-            Usuario nuevoUsuario = new Usuario(nuevoNombre, biblioteca.listaUsuarios.Count + 1, null,);
+            Usuario nuevoUsuario = new Usuario(nuevoNombre, biblioteca.listaUsuarios.Count + 1, null);
             biblioteca.listaUsuarios.Add(nuevoUsuario);
         }
 

@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\sist_biblioteca",
-    "\\sist_biblioteca\\sist_biblioteca"
+    "\\sist_biblioteca\\sist_biblioteca",
+    "\\sist_biblioteca\\sist_biblioteca\\bin\\Debug\\net6.0",
+    "\\sist_biblioteca\\sist_biblioteca\\obj\\Debug\\net6.0\\ref",
+    "\\sist_biblioteca\\sist_biblioteca\\obj\\Debug\\net6.0\\refint",
+    "\\sist_biblioteca\\sist_biblioteca\\obj\\Release",
+    "\\sist_biblioteca\\sist_biblioteca\\obj\\Release\\net6.0",
+    "\\sist_biblioteca\\sist_biblioteca\\obj\\Release\\net6.0\\ref",
+    "\\sist_biblioteca\\sist_biblioteca\\obj\\Release\\net6.0\\refint"
   ],
-  "SelectedNode": "\\sist_biblioteca\\sist_biblioteca\\Administrador.cs",
+  "SelectedNode": "\\sist_biblioteca\\sist_biblioteca\\GeneroEnum.cs",
   "PreviewInSolutionExplorer": false
 }
