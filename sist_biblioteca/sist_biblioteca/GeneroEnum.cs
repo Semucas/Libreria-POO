@@ -1,0 +1,23 @@
+﻿public enum GeneroEnum
+{
+    CienciaFiccion,
+    Misterio,
+    Educativo,
+    Informativo,
+    Romance,
+    Aventura,
+    Fantasia,
+    Biografia,
+    Horror,
+    Suspense,
+    Historia,
+    Poesia,
+    Comedia,
+    Ciencia,
+    Religioso,
+    Autobiografia,
+    Drama,
+    Viajes,
+    CienciaPolitica,
+    Filosofia
+}

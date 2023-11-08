@@ -1,0 +1,31 @@
+verificar que cuando el admin le da el libro al usuario lo mete en listaTransacciones.
+
+
+bool disponibilidad e int copas en sede añadidos a la clase libro.
+
+quedé en los métodos del usuairo
+
+
+---------------------------------------------------------------
+
+Cambio en los parámetros del método devolver libro de usu
+
+RECUERDA EL CONDICIONAL DE TRANSACCIONES EN DARPRESTAMO
+
+CLASE ADMINISTRADOR PUEDE NECESITAR UN BUSCADOR DE TRANSACCIONES EN EL QUE PUEDA VER TODAS LAS LISTATRANSACCIONES DE TODOS LOS USUARIOS
+
+Ver si es conveniente tener vectores o listas
+
+METODO CALCULARMULTA CAMBIADO A INT EN TRANSACCIONES
+METODO CALCULAR MULTA EN LA CLASE LIBRO BORRADO
+
+RECUERDA PENSAR EN ENCAPSULAMIENTO
+
+
+NOTAS QUE HABIA TENIDO EN EL CODE (RECUERDA REVISAR EL CODE):
+//NOTA IMPORTANTE, listatransacciones se movio de biblioteca a usuarios para que los usuarios solo almacenen las transacciones hechas por ellos.
+//QUIZA NECESARIO AÑADIR CUANTAS COPIAS HAY DE CADA LIBRO COMO UN ATRIBUTO DE LIBRO.
+//Posiblemente sea necesario añadir un metodo para que la instancia transaccion sea la que se encargue de mirar que el libro sea devuelto a tiempo.
+
+RECUERDA AÑADIR ATRIBUTO BANEO A LA CLASE USUARIO
+HAZ IMPOSIBLE QUE SE PUEDA PEDIR UN LIBRO SI ESTÁS CON DÍAS DE BANEO.
